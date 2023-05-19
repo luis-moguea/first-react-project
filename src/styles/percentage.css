@@ -1,0 +1,45 @@
+.percentage {
+    border: solid transparent;
+    margin-top: 40px;
+    color: #ffffff;
+    width: 49%;
+    height: 180px;
+    border-radius: 50%;
+    margin-left: 90px;
+    background: #2421CA;
+    background: linear-gradient(180deg, #2421CA, #4E21CA);
+    cursor: pointer;
+}
+
+
+
+.percentage__number {
+    font-size: 60px;
+    margin-top: 40px;
+    margin-bottom: 0;
+}
+
+.percentage__text {
+    color: #c7c0c0;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+@media all and (max-width: 700px){
+    .percentage {
+        width: 80px;
+        height: 80px;
+        margin-top: 0;
+        margin-left: 32%;
+        padding: 1em;
+    }
+
+    .percentage__number{
+        font-size: 40px;
+        margin-top: 8px;
+    }
+
+    .percentage__text{
+        font-size: 10px;
+    }
+}
