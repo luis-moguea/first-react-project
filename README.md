@@ -40,6 +40,5 @@ To run this project, just clone this repository from Github and run it locally u
    npm run dev
 ```
 
-![Mobile view](https://raw.githubusercontent.com/luis-moguea/first-react-app/main/src/assets/image0-_1_.png)
-![Desktop view](https://raw.githubusercontent.com/luis-moguea/first-react-app/main/src/assets/summary.png)
-
+![Mobile view](https://raw.githubusercontent.com/luis-moguea/first-react-project/main/src/assets/image0-_1_.png)
+![Desktop view](https://raw.githubusercontent.com/luis-moguea/first-react-project/main/src/assets/summary.png)
