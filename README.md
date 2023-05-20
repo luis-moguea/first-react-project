@@ -25,7 +25,7 @@ To run this project, just clone this repository from Github and run it locally u
 ### Clone the repository
 
 ```bash
-   git clone git@github.com:luis-moguea/first-react-app.git
+   git clone git@github.com:luis-moguea/first-react-project.git
 ```
 
 ### Install dependencies
