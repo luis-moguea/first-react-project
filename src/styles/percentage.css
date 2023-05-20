@@ -27,15 +27,15 @@
 
 @media all and (max-width: 700px){
     .percentage {
-        width: 80px;
-        height: 80px;
+        width: 100px;
+        height: 100px;
         margin-top: 0;
-        margin-left: 32%;
+        margin-left: 28%;
         padding: 1em;
     }
 
     .percentage__number{
-        font-size: 40px;
+        font-size: 50px;
         margin-top: 8px;
     }
 

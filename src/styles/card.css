@@ -28,16 +28,17 @@
 }
 
 .card__first--result{
-    color: #e7e0e0;
+    color:  #c8c7ff
 }
 
 .card__first--great{
-    color: azure;
+    color: #c8c7ff;
     letter-spacing: 5px;
 }
 
 .card__first--text{
-    color: azure;
+    color: #c8c7ff;
+
 }
 
 .card__second{
@@ -46,6 +47,10 @@
     justify-content: center;
     align-items: center;
     text-align: center;
+}
+
+.card__second--summary{
+    margin-left: -190px;
 }
 
 .card__first--text{
@@ -65,31 +70,30 @@
     .card__first{
         float:left;
         width: 100%;
-        height: 240px;
+        height: 300px;
         padding: 1.5em;
         border-top-right-radius: 0;
         border-top-left-radius: 0;
-        margin-top: -10px;
     
     }
 
     .card__first--great{
         margin-top: 20px;
         font-size: 18px;
-        margin-left: -11px;
+        margin-left: -24px;
     }
 
     .card__first--result{
-        margin-top: -10px;
+        margin-top: 20px;
         margin-bottom: 20px;
-        font-size: 14px;
-        margin-left: -4%;
+        font-size: 16px;
+        margin-left: -8%;
     }
 
     .card__first--text{
         font-size: 11px;
         width: 200px;
-        margin-left: 80px;
+        margin-left: 74px;
     }
 
     .card__second {
@@ -100,10 +104,10 @@
     }
 
     .card__second--summary{
-        margin-left: -85%;
+        margin-left: -70%;
         margin-top: 8px;
-        margin-bottom: 25px;
-        font-size: 16px;
+        margin-bottom: 30px;
+        font-size: 18px;
     }
 
 
