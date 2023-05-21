@@ -33,7 +33,7 @@
 
 .card__first--great{
     color: #c8c7ff;
-    letter-spacing: 5px;
+    letter-spacing: 1px;
 }
 
 .card__first--text{
@@ -92,7 +92,7 @@
     }
 
     .card__first--text{
-        font-size: 11px;
+        font-size: 12px;
         width: 200px;
         margin-top: 20px;
         margin-left: 85px;
